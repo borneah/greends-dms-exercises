@@ -1,0 +1,8 @@
+codes,parent_code,Nível,Código,Designação
+111,11,3,111,Alto Minho
+16B,16,3,16B,Oeste
+170,17,3,170,Área Metropolitana de Lisboa
+181,18,3,181,Alentejo Litoral
+150,15,3,150,Algarve
+200,20,3,200,Região Autónoma dos Açores
+300,30,3,300,Região Autónoma da Madeira 
