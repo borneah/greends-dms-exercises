@@ -13,7 +13,7 @@ In each of the tables, we will create a foreign key of the parent unit. We will 
 **Suggestion**: before advancing to any tasks, organize your data project directories and files as discussed in FADS.
 
 1. Go to [INE (Metainformation System)](https://smi.ine.pt/Categoria/Parent/3504), to path "SMI/Módulo classificações/Famílias/Classificações/Versões/Categorias" and export all to a *csv* or *xslx* file.
-
+  
 
 ## 2. Import data to OpenRefine
 
